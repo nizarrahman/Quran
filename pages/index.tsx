@@ -39,7 +39,7 @@ export default function Page({ data }: { data: Array<SurahInfo> }) {
     <NextSeoWrapper
       title="AL-Quran Bahasa Indonesia"
       description="Al-Quran dengan terjamahan dan tafsir bahasa Indonesia"
-      url="quranlet.vercel.app"
+      url="quran.nizardev.site"
     />
     <Navbar />
     <Header data={data} />
